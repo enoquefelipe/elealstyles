@@ -1,0 +1,90 @@
+#img-perfil{
+    width: 120px;
+}
+
+#div-perfil{
+    text-align: center; 
+}
+
+#text-nome{
+    text-align: center;
+}
+
+.container-principal{
+    width: 90%;
+    margin: auto;
+}
+
+li:hover{
+    background-color: #fff;
+}
+
+footer{
+    text-align: center;
+    
+    height: 4em;
+    clear: both;
+    margin-bottom: 0;
+    
+    background-color: #eee;
+    border-radius: 5px;
+}
+
+#btn-login{
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+#container-login{
+    padding-top: 17%;
+    width: 60%;
+    margin: auto;
+}
+
+#form-login{
+    border: solid 1px black ; 
+    border-radius: 5px;
+}
+
+#login-name{
+    padding-top: 35px;
+}
+
+.form-control:invalid {
+    border: 1px solid #cc0000;
+}
+
+#h2-contato{
+    text-align: center;
+}
+
+/* view de cadastro*/ 
+label{
+    display: inline-block;
+    width: 110px;
+}
+
+.form-area{
+    width: 250px;
+    height: 30px;
+}
+
+#teamplate-padrao{
+    background-image: -webkit-linear-gradient(top, #428bca 0%, #2d6ca2 100%);
+    background-image:         linear-gradient(to bottom, #428bca 0%, #2d6ca2 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff428bca', endColorstr='#ff2d6ca2', GradientType=0);
+    filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+    background-repeat: repeat-x;
+    border-color: #2b669a;
+
+    color: white;
+    height: 50px;
+    margin: 0;
+    font-size: 30px;
+}
+
+.tittle{         
+    margin: 7px 0 0 10px ;
+}  
+
+/*fim da view cadastro*/
