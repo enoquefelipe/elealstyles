@@ -1,3 +1,3 @@
-# elealstyle
+# Eleal styles
 
-Bootstrap template.
+- Basic templates using HTML, CSS, Bootstrap and other technologies.
