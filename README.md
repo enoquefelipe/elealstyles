@@ -1,2 +1,3 @@
-template-admin
-==============
+# elealstyle
+
+Bootstrap template.
